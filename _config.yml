@@ -1,4 +1,4 @@
-name: LookOut Squirrel
+name: Look Out Squirrel
 favicon: null
 layout_spectrum: 0.5567643803078681
 typography_spectrum: 0.7286027991212904
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#64aae5'
+    - '#1d2733'
+    - '#aaaaaa'
+    - '#395988'
+    - '#7f8082'
   brandStrength: 0.7153710452839732
   lightness: 0.023004435934126377
   saturation: 0.38701673899777234
